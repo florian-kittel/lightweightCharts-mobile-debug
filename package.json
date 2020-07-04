@@ -1,0 +1,23 @@
+{
+  "name": "lightweightcharts-mobile-debug",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server -c server.config.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florian-kittel/lightweightCharts-mobile-debug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florian-kittel/lightweightCharts-mobile-debug/issues"
+  },
+  "homepage": "https://github.com/florian-kittel/lightweightCharts-mobile-debug#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
